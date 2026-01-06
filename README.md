@@ -1,6 +1,6 @@
 # Audio Share GUI
 
-[![License](https://img.shields.io/github/license/ADIOR-enigma/audio-share-gui)](https://github.com/ADIOR-enigma/audio-share-gui/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/ADIOR-enigma/audio-share-gui)]
 [![GitHub stars](https://img.shields.io/github/stars/ADIOR-enigma/audio-share-gui)](https://github.com/ADIOR-enigma/audio-share-gui/stargazers)
 [![Release](https://img.shields.io/github/v/release/ADIOR-enigma/audio-share-gui)](https://github.com/ADIOR-enigma/audio-share-gui/releases)
 
