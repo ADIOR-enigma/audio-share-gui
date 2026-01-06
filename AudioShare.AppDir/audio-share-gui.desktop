@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Audio Share GUI
-Exec=audio-share-gui
-Icon=audio-share-gui
-Categories=Audio;Network;
-Terminal=false
