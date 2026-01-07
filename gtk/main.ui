@@ -150,6 +150,7 @@
         <child>
           <object class="GtkExpander">
             <property name="label">Details</property>
+            <property name="expanded">true</property>
 
             <child>
               <object class="GtkFrame">
