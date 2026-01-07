@@ -4,7 +4,7 @@
 [![Release](https://img.shields.io/github/v/release/ADIOR-enigma/audio-share-gui)](https://github.com/ADIOR-enigma/audio-share-gui/releases)
 
 
-**Audio Share GUI** is a portable desktop application for Linux that lets you share your system’s audio over the local network with a clean GTK interface and system tray controls.
+**Audio Share GUI** is a portable desktop application for Linux that lets you share your system’s audio over the network with a clean GTK interface and system tray controls.
 
 This project builds on the work originally done by **mkckr0** in the [audio-share](https://github.com/mkckr0/audio-share) repository and extends it with a full GUI frontend, AppImage packaging, and usability improvements.
 
