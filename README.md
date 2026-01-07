@@ -9,7 +9,6 @@
 This project builds on the work originally done by **mkckr0** in the [audio-share](https://github.com/mkckr0/audio-share) repository and extends it with a full GUI frontend, AppImage packaging, and usability improvements.
 
 <img width="383" height="486" alt="image" src="https://github.com/user-attachments/assets/7ad167a7-9965-4689-9451-4fb4eda0a567" />
----
 
 ## 📦 Features
 
@@ -19,7 +18,6 @@ This project builds on the work originally done by **mkckr0** in the [audio-shar
 - 🧠 **Dynamic listing of interfaces, encodings, and endpoints**
 - 📦 Distributed as a **standalone AppImage**
 
----
 
 ## 🧠 Core Project (by mkckr0)
 
@@ -30,7 +28,6 @@ please check out:
 
 Huge thanks to **mkckr0** for building the foundation of this tool.
 
----
 
 ## 🚀 AppImage Releases
 
@@ -38,7 +35,6 @@ Prebuilt AppImages are available in the releases section:
 
 🔗 https://github.com/ADIOR-enigma/audio-share-gui/releases
 
----
 
 To run the AppImage:
 ---
@@ -62,7 +58,6 @@ The easiest and cleanest way to run **Audio Share GUI** is by using a modern App
 4. Drag and drop the AppImage into the Gear Lever window
 5. Launch **Audio Share GUI** like a normal desktop application
 
----
 
 ## ▶️ Manual Method (Alternative)
 
@@ -73,7 +68,6 @@ chmod +x AudioShareGUI-*.AppImage
 ./AudioShareGUI-*.AppImage
 ```
 
----
 
 ## ℹ️ Notes
 
@@ -85,7 +79,6 @@ Works even on systems where those dependencies are not installed
 
 Tested on Linux Mint / Ubuntu-based distributions
 
----
 
 ## 📜 License
 
@@ -94,7 +87,6 @@ This project is licensed under GPL-3.0-or-later.
 The underlying core project (audio-share) by mkckr0 is licensed separately.
 Please refer to its repository for details.
 
----
 
 ## ❤️ Acknowledgements
 
@@ -106,4 +98,3 @@ https://github.com/mijorus/gearlever
 
 The Linux desktop and AppImage community
 
----
